@@ -1,0 +1,49 @@
+body{
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.container{
+    padding: 40vh;
+}
+
+.btn {
+    border: none;
+    padding: 14px 28px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.green{
+    color:#03045e;
+}
+
+.blue{
+    color:#023e8a;
+}
+
+.orange{
+    color:#0077b6;
+}
+
+.red{
+    color:#0096c7;
+}
+
+.purple{
+    color:#00b4d8;
+}
+
+.coral{
+    color: #48cae4;
+}
+
+.brown{
+    color:#90e0ef;
+}
+
+.pink{
+    color:#ade8f4;
+}
+.btn:hover {background: #eee;}

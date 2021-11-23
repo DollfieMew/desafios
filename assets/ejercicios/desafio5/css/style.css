@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.producto{
+    z-index:-1;
+
+}
+
+.ribbon{
+    position: absolute;
+}

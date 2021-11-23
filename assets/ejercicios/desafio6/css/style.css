@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.producto{
+    position: relative;
+
+}
+
+.ribbon img{
+    position: absolute;
+    top: 275px;
+    left:266px;
+
+}
